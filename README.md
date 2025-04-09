@@ -26,7 +26,7 @@ request.
 
 <a id="orgaa3838c"></a>
 
-### Iportant convention
+### Important convention
 
 When you see `<parameter>` it is not meant to be copied literally. It
 means you should look for another directive that tells you how name
@@ -46,3 +46,4 @@ that paramer.  Here, I will use my initials "em" as the branch name.
 -   Create a link in markdown to your picture
 -   A relative link in Github Flavored Markdown [name](/pictures/<first>\_<last>.{jpg,png})
 
+I am Evan Missshula and I live in Coney Island.
