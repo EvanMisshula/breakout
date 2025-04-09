@@ -1,3 +1,3 @@
-## Evan Misshula
-I am one of your instructors and I live in Coney Island.
-Here is a link to my picture [EM](/pictures/Evan_Misshula.jpg)
+## Luis Venegas
+Hi, my name is Luis Venegas, and I am from Oxnard, Ca.
+Here is a link to my picture [LV](/pictures/LuisVenegas.jpg.jpg)
