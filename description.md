@@ -1,3 +1,3 @@
-## Evan Misshula
-I am one of your instructors and I live in Coney Island.
-Here is a link to my picture [EM](/pictures/Evan_Misshula.jpg)
+## Brittany Leija
+I have been posted in the Wichita Business Journal here in Kansas!
+Here is a link to my picture [EM](/pictures/BrittanyLeijaW0D2.png)
