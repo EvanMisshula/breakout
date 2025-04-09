@@ -1,3 +1,3 @@
-## Evan Misshula
-I am one of your instructors and I live in Coney Island.
-Here is a link to my picture [EM](/pictures/Evan_Misshula.jpg)
+## Eric 'Hunter' Petross
+I am one of your students in the Tech Pathways 2025 Spring cohort
+Here is a link to my picture [ehp](/pictures/PetrossEricH.jpg)

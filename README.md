@@ -26,7 +26,7 @@ request.
 
 <a id="orgaa3838c"></a>
 
-### Iportant convention
+### Important convention
 
 When you see `<parameter>` it is not meant to be copied literally. It
 means you should look for another directive that tells you how name
