@@ -12,6 +12,8 @@
 
 # Description
 
+My name is Shawn "Cyrus" Tapps. I used to fly F-16s.
+
 In  this activity you will create a pull
 request.
 
